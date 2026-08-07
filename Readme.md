@@ -81,7 +81,7 @@ Ejecuta:
 data\_BUILD\Modtools VisualMunge.exe
 ```
 
-Esta instancia de VisualMunge creas un directorio,por ejemplo, `data_ABC`.
+Esta instancia de VisualMunge creas un directorio, por ejemplo, `data_ABC`.
 
 ### Compilar un proyecto existente
 
