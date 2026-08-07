@@ -8,9 +8,9 @@
 
 ### Installing the patch
 
-1) Extract `BF2_ModTools_Portable_Patch.zip` directly into the `BF2_ModTools`
+1. Extract `BF2_ModTools_Portable_Patch.zip` directly into the `BF2_ModTools`
    root directory.
-2) Done.
+2. Done.
 
 ### Creating a map or project
 
@@ -69,9 +69,9 @@ the patch is installed receive the portable scripts.
 
 ### Instalar el parche
 
-1) Extrae `BF2_ModTools_Portable_Patch.zip` directamente dentro de la carpeta
+1. Extrae `BF2_ModTools_Portable_Patch.zip` directamente dentro de la carpeta
    raiz `BF2_ModTools`.
-2) Listo.
+2. Listo.
 
 ### Crear un mapa o proyecto
 
