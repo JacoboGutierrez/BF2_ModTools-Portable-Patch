@@ -2,7 +2,7 @@
 
 <p align="left">
   <img
-    src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/portable-sample-01.png?raw=true"
+    src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/portable-sample.png?raw=true"
     alt="Portable Parch Banner"
   />
 </p>
