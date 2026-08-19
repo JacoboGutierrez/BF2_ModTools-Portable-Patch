@@ -1,6 +1,6 @@
 # BF2 ModTools Portable Patch
 
-<p align="center">
+<p align="left">
   <img
     src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/portable-sample.png?raw=true"
     alt="Portable Parch Banner"
